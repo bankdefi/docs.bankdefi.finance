@@ -52,11 +52,11 @@ Swap打造为火币生态链Heco生态系统乃至整个加密货币行业的公
         <p>对于BankDefi Swap项目的早期贡献者，他们将从流动性提供者的挖矿奖励BDS代币中获得一部分的分成，以表彰他们对BankDefi
 Swap项目所做的贡献。除了早期贡献者奖励和流动性提供者奖励外，不存在其他方式的BDS代币发行。BankDefi Swap不存在代币预售，不存在代币私募。</p>
 
-        <h2>BankDefi Swap上线初期将推出哪些币对？</h2>
+        <h2>BankDefi Swap上线初期将推出哪些挖矿币对？</h2>
 
-        <p>BankDefi Swap将在上线之初推出如下币对：</p>
+        <p>BankDefi Swap将在上线之初推出如下挖矿币对：</p>
 
-        <ul><li>HBTC-HETH</li><li>HBTC-HUSD</li><li>HBTC-HT</li><li>HUSD-HT</li></ul>
+        <ul><li>HBTC-HETH: 5X</li><li>HBTC-HUSD: 1X</li><li>HBTC-HT: 1X</li><li>HUSD-HT: 1X</li></ul>
 
         <p>虽然任何人都可以在BankDefi Swap上添加他们想要的币对，但是BankDefi
 Swap团队会提供精选的币对列表，以便用户能更加放心地在精选币对里进行交易。同时，只有为精选列表中的币对提供流动性的参与者才有资格获得BDS奖励。将来，BankDefi团队会把币对列表的管理移交给社区治理。</p>
